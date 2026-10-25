@@ -1,3 +1,5 @@
+**Live prototype:** https://ecdat-crypto-migration.streamlit.app
+
 # ECDAT — Enterprise Cryptographic Discovery & Analysis Tool
 
 ECDAT scans source files, dependency manifests, protocol/configuration files, binaries, certificates, repositories, and container images for cryptographic artefacts. It produces normalized findings, risk analysis, PQC recommendations, and CBOM exports.
